@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="album_numphotos">
-        <item quantity="other">%,d фатаздымкаў</item>
-        <item quantity="one">%,d фатаздымак</item>
-        <item quantity="few">%,d фатаздымкі</item>
+        <item quantity="other">%,d фотаздымкаў</item>
+        <item quantity="one">%,d фотаздымак</item>
+        <item quantity="few">%,d фотаздымкі</item>
     </plurals>
     <plurals name="album_video_count">
         <item quantity="other">%,d відэа</item>
@@ -274,24 +274,24 @@
         <item quantity="few">Паказаць %,d новыя запісы</item>
     </plurals>
     <plurals name="news_added_photo_f">
-        <item quantity="other">дадала %,d фатаздымкаў</item>
-        <item quantity="one">дадала %,d фатаздымак</item>
-        <item quantity="few">дадала %,d фатаздымкі</item>
+        <item quantity="other">дадала %,d фотаздымкаў</item>
+        <item quantity="one">дадала %,d фотаздымак</item>
+        <item quantity="few">дадала %,d фотаздымкі</item>
     </plurals>
     <plurals name="news_added_photo_m">
-        <item quantity="other">дадаў %,d фатаздымкаў</item>
-        <item quantity="one">дадаў %,d фатаздымак</item>
-        <item quantity="few">дадаў %,d фатаздымкі</item>
+        <item quantity="other">дадаў %,d фотаздымкаў</item>
+        <item quantity="one">дадаў %,d фотаздымак</item>
+        <item quantity="few">дадаў %,d фотаздымкі</item>
     </plurals>
     <plurals name="news_tagged_photo_f">
-        <item quantity="other">была пазначана на %,d фатаздымках</item>
-        <item quantity="one">была пазначана на %,d фатаздымку</item>
-        <item quantity="few">была пазначана на %,d фатаздымках</item>
+        <item quantity="other">была пазначана на %,d фотаздымках</item>
+        <item quantity="one">была пазначана на %,d фотаздымку</item>
+        <item quantity="few">была пазначана на %,d фотаздымках</item>
     </plurals>
     <plurals name="news_tagged_photo_m">
-        <item quantity="other">была пазначаны на %,d фатаздымках</item>
-        <item quantity="one">была пазначаны на %,d фатаздымку</item>
-        <item quantity="few">была пазначаны на %,d фатаздымках</item>
+        <item quantity="other">была пазначаны на %,d фотаздымках</item>
+        <item quantity="one">была пазначаны на %,d фотаздымку</item>
+        <item quantity="few">была пазначаны на %,d фотаздымках</item>
     </plurals>
     <plurals name="not_n_new_notifications">
         <item quantity="other">%s новых апавяшчэнняў</item>
@@ -329,9 +329,9 @@
         <item quantity="few">%,d перасланыя паведамленні</item>
     </plurals>
     <plurals name="num_attach_photo">
-        <item quantity="other">%,d фатаздымкаў</item>
-        <item quantity="one">Фатаздымак</item>
-        <item quantity="few">%,d фатаздымкі</item>
+        <item quantity="other">%,d фотаздымкаў</item>
+        <item quantity="one">Фотаздымак</item>
+        <item quantity="few">%,d фотаздымкі</item>
     </plurals>
     <plurals name="num_attach_video">
         <item quantity="other">%,d відэазапісаў</item>
@@ -359,24 +359,24 @@
         <item quantity="few">Знойдзена %,d чалавекі</item>
     </plurals>
     <plurals name="photos">
-        <item quantity="other">%,d фатаздымкаў</item>
-        <item quantity="one">%,d фатаздымак</item>
-        <item quantity="few">%,d фатаздымкі</item>
+        <item quantity="other">%,d фотаздымкаў</item>
+        <item quantity="one">%,d фотаздымак</item>
+        <item quantity="few">%,d фотаздымкі</item>
     </plurals>
     <plurals name="photos_tagged_short_f">
-        <item quantity="other">пазначана на %,d фатаздымках</item>
-        <item quantity="one">пазначана на %,d фатаздымку</item>
-        <item quantity="few">пазначана на %,d фатаздымках</item>
+        <item quantity="other">пазначана на %,d фотаздымках</item>
+        <item quantity="one">пазначана на %,d фотаздымку</item>
+        <item quantity="few">пазначана на %,d фотаздымках</item>
     </plurals>
     <plurals name="photos_tagged_short_m">
-        <item quantity="other">пазначаны на %,d фатаздымках</item>
-        <item quantity="one">пазначаны на %,d фатаздымку</item>
-        <item quantity="few">пазначаны на %,d фатаздымках</item>
+        <item quantity="other">пазначаны на %,d фотаздымках</item>
+        <item quantity="one">пазначаны на %,d фотаздымку</item>
+        <item quantity="few">пазначаны на %,d фотаздымках</item>
     </plurals>
     <plurals name="picker_share_photo_plural">
-        <item quantity="other">Падзяліцца фатаздымкамі</item>
-        <item quantity="one">Падзяліцца фатаздымкам</item>
-        <item quantity="many">Падзяліцца фатаздымкамі</item>
+        <item quantity="other">Падзяліцца фотаздымкамі</item>
+        <item quantity="one">Падзяліцца фотаздымкам</item>
+        <item quantity="many">Падзяліцца фотаздымкамі</item>
     </plurals>
     <plurals name="post_people_dat">
         <item quantity="other">%d чалавекам</item>
