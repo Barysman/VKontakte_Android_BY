@@ -434,9 +434,9 @@
         <item quantity="few">У суполцы /m%,d/e сябры</item>
     </plurals>
     <plurals name="profile_groups">
-        <item quantity="other">Груп</item>
-        <item quantity="one">Група</item>
-        <item quantity="few">Групы</item>
+        <item quantity="other">Суполак</item>
+        <item quantity="one">Суполка</item>
+        <item quantity="few">Суполкі</item>
     </plurals>
     <plurals name="profile_members">
         <item quantity="other">/m%,d/e удзельнікаў</item>
