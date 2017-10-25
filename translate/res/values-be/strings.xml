@@ -1113,7 +1113,7 @@
     <string name="new_posts">Апошнія запісы</string>
     <string name="new_replies">Новыя</string>
     <string name="new_status">Навы запіс</string>	
-    <string name="new_tags">Новыя меткі</string>	
+    <string name="new_tags">Новыя пазнакі</string>	
     <string name="newpost_export_fb">Экспарт у Facebook</string>
     <string name="newpost_export_twitter">Экспарт у Twitter</string>	
     <string name="newpost_friends_only">Толькі для сяброў</string>
@@ -1163,68 +1163,65 @@
     <string name="no_users">Няма карыстальнікаў</string>
     <string name="no_videos_me">У Вас няма відэазапісаў</string>
     <string name="no_views">Няма праглядаў</string>
-	
-	
-	
-	
-	
-	
-	
-	
-    <string name="none_selected">(Не выбрано)</string>
-    <string name="not_avail_for_this_album">Действие недоступно для этого альбома</string>
-    <string name="not_empty_desc">Здесь Вы будете видеть упоминания, новые комментарии, отметки «Мне нравится» и другие уведомления</string>
-    <string name="not_friend_requests">Заявки в друзья</string>
-    <string name="not_messages_disabled">Отключены</string>
-    <string name="not_money_transfer_accepted">Перевод получен</string>
-    <string name="not_money_transfer_declined">Перевод отклонён</string>
-    <string name="not_new_posts">Новые записи</string>
-    <string name="not_notification_types">Типы уведомлений</string>
-    <string name="not_notifications">Уведомления</string>
-    <string name="not_notifications_settings">Настройки уведомлений</string>
-    <string name="not_photo_tag_confirmed">Отметка подтверждена</string>
-    <string name="not_photo_tag_removed">Отметка удалена</string>
-    <string name="not_push_notifications">Push-уведомления</string>
-    <string name="not_show_notifications">Показывать уведомления</string>
-    <string name="not_sources_desc">Подписаться на уведомления о новых записях можно на страницах пользователей и сообществ</string>
-    <string name="not_specified">Не указано</string>
-    <string name="not_viewed">Просмотренные</string>
-    <string name="nothing_found">Ничего не найдено</string>
-    <string name="notification">Уведомление</string>
-    <string name="notification_event_cancel">Отмена</string>
-    <string name="notification_event_confirm">OK</string>
-    <string name="notification_in_chat">(в беседе)</string>
-    <string name="notification_in_chat_summary">Беседа \"%s\"</string>
-    <string name="notification_new_post">(новая запись)</string>
-    <string name="notification_open_gallery">Открыть галерею</string>
-    <string name="notification_photos_visible_you">фотографии видны только Вам</string>
-    <string name="notification_settings">Настройки</string>
-    <string name="notify_friend_found_f">%1$s найдена в поиске контактов через %2$s.</string>
-    <string name="notify_friend_found_m">%1$s найден в поиске контактов через %2$s.</string>
-    <string name="notify_friend_found_title_f">Возможно, Вы знакомы</string>
-    <string name="notify_friend_found_title_m">Возможно, Вы знакомы</string>
-    <string name="now_on_site">Сейчас в сети</string>
-    <string name="now_playing">Воспроизводится</string>
-    <string name="ntf_group_accepted">Администратор принял Вас в сообщество</string>
-    <string name="ntf_group_accepted_ticker">Администратор принял Вас в сообщество \"%1$s\"</string>
-    <string name="ntf_post_published">Ваша предложенная запись опубликована</string>
-    <string name="ntf_post_published_ticker">Ваша предложенная запись опубликована в сообществе \"%1$s\"</string>
-    <string name="ntf_to_comment">на комментарий</string>
-    <string name="ntf_to_market">к товару</string>
-    <string name="ntf_to_photo">к фотографии</string>
-    <string name="ntf_to_post">к записи</string>
-    <string name="ntf_to_topic">к обсуждению</string>
-    <string name="ntf_to_video">к видеозаписи</string>
-    <string name="ntf_two_users_c">и</string>
-    <string name="ntf_upcoming_event">Состоится %s</string>
-    <string name="ntf_upcoming_event_ticker">%1$s состоится %2$s</string>
+    <string name="none_selected">(Не абрана)</string>
+    <string name="not_avail_for_this_album">Дзеянне недаступна для гэтага альбома</string>
+    <string name="not_empty_desc">Тут Вы будзеце бачыць згадкі, новыя каментары, меткі «Мне падабаецца» і іншыя апавяшчэнні</string>
+    <string name="not_friend_requests">Заяўкі ў сябры</string>
+    <string name="not_messages_disabled">Выключаны</string>
+    <string name="not_money_transfer_accepted">Перавод атрыманы</string>
+    <string name="not_money_transfer_declined">Перавод адхілены</string>
+    <string name="not_new_posts">Новыя запісы</string>
+    <string name="not_notification_types">Тыпы апавяшчэнняў</string>
+    <string name="not_notifications">Апавяшчэнні</string>
+    <string name="not_notifications_settings">Налады апавяшчэнняў</string>	
+    <string name="not_photo_tag_confirmed">Пазнака пацверджана</string>
+    <string name="not_photo_tag_removed">Пазнака выдалена</string>
+    <string name="not_push_notifications">Push-апавяшчэнне</string>
+    <string name="not_show_notifications">Паказваць апавяшчэнні</string>	
+    <string name="not_sources_desc">Падпісацца на апавяшчэнні аб новых запісах можна на старонках карыстальнікаў і суполак</string>
+    <string name="not_specified">Не пазначана</string>
+    <string name="not_viewed">Прагледжаныя</string>
+    <string name="nothing_found">Нічога не знойдзена</string>
+    <string name="notification">Апавяшчэнне</string>
+    <string name="notification_event_cancel">Адхіліць</string>
+    <string name="notification_event_confirm">OK</string>	
+    <string name="notification_in_chat">(у гутарцы)</string>
+    <string name="notification_in_chat_summary">Гутарка \"%s\"</string>	
+    <string name="notification_new_post">(новы запіс)</string>
+    <string name="notification_open_gallery">Адчыніць галерэю</string>	
+    <string name="notification_photos_visible_you">фотаздымкі бачны толькі Вам</string>
+    <string name="notification_settings">Налады</string>	
+    <string name="notify_friend_found_f">%1$s знойдзена ў пошуку кантактаў праз %2$s.</string>
+    <string name="notify_friend_found_m">%1$s знойдзены ў пошуку кантактаў праз %2$s.</string>
+    <string name="notify_friend_found_title_f">Магчыма, Вы знаёмыя</string>
+    <string name="notify_friend_found_title_m">Магчыма, Вы знаёмыя</string>
+    <string name="now_on_site">Зараз у сетцы</string>	
+    <string name="now_playing">Прайграваецца</string>	
+    <string name="ntf_group_accepted">Адміністратар прыняў Вас у суполку</string>
+    <string name="ntf_group_accepted_ticker">Адміністратар прыняў Вас у суполку \"%1$s\"</string>
+    <string name="ntf_post_published">Ваш прапанаваны запіс апублікаваны</string>
+    <string name="ntf_post_published_ticker">Ваш прапанаваны запіс апублікаваны ў суполцы \"%1$s\"</string>
+    <string name="ntf_to_comment">на каментар</string>	
+    <string name="ntf_to_market">да тавару</string>
+    <string name="ntf_to_photo">да фотаздымку</string>
+    <string name="ntf_to_post">да запісу</string>
+    <string name="ntf_to_topic">да абмеркавання</string>
+    <string name="ntf_to_video">да відэазапісу</string>
+    <string name="ntf_two_users_c">ды</string>
+    <string name="ntf_upcoming_event">Адбудзецца %s</string>
+    <string name="ntf_upcoming_event_ticker">%1$s адбудзецца %2$s</string>
     <string name="off">Выкл</string>
-    <string name="offline">не в сети</string>
+    <string name="offline">не ў сетцы</string>
     <string name="ok">OK</string>
-    <string name="old_password">Старый пароль</string>
-    <string name="old_password_incorrect">Неверный старый пароль</string>
-    <string name="on">Вкл</string>
+    <string name="old_password">Стары пароль</string>
+    <string name="old_password_incorrect">Няправільны стары пароль</string>
+    <string name="on">Укл</string>
     <string name="online">online</string>
+	
+	
+	
+	
+	
     <string name="open">Открыть</string>
     <string name="open_chat">Открыть диалог</string>
     <string name="open_community">Открыть сообщество</string>
