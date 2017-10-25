@@ -56,9 +56,9 @@
         <item quantity="few">%,d секунды таму</item>
     </plurals>
     <plurals name="events">
-        <item quantity="other">%,d сустрэч</item>
-        <item quantity="one">%,d сустрэча</item>
-        <item quantity="few">%,d сустрэчы</item>
+        <item quantity="other">%,d падзей</item>
+        <item quantity="one">%,d падзея</item>
+        <item quantity="few">%,d падзеі</item>
     </plurals>
     <plurals name="friend_requests_new">
         <item quantity="other">%s новых заявак</item>
@@ -524,8 +524,8 @@
         <item quantity="few">Спадабалася Вам і %,d чалавекам</item>
     </plurals>
     <plurals name="x_stickers">
-        <item quantity="other">%,d стыкераў</item>
-        <item quantity="one">%,d стыкер</item>
-        <item quantity="few">%,d стыкеры</item>
+        <item quantity="other">%,d налепак</item>
+        <item quantity="one">%,d налепка</item>
+        <item quantity="few">%,d налепкі</item>
     </plurals>
 </resources>
