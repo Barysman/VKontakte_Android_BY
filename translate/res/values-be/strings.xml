@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Перайсці да галоўнага экрану</string>
+    <string name="abc_action_bar_home_description">Перайсці да галоўнага экрана</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перайсці ўверх</string>
@@ -45,7 +45,7 @@
     <string name="add_link">Дадаць спасылку</string>
     <string name="add_photo">Дадаць фота</string>
     <string name="add_photo_camera">Зрабіць здымак</string>
-    <string name="add_photo_from_album">Абраць з альбома</string>
+    <string name="add_photo_from_album">Абраць з альбому</string>
     <string name="add_photo_gallery">Загрузіць з галерэі</string>
     <string name="add_place">Дадаць месца</string>
     <string name="add_shortcut_title">Дадаць ярлык</string>
@@ -58,7 +58,7 @@
     <string name="age">Узрост</string>
     <string name="age_from">ад %,d</string>
     <string name="age_to">да %,d</string>
-    <string name="album_cover_changed">Вокладка альбома зменена</string>
+    <string name="album_cover_changed">Вокладка альбому зменена</string>
     <string name="album_unnamed">Без назвы</string>
     <string name="albums">Альбомы</string>
     <string name="all_albums">Усе альбомы</string>
@@ -70,7 +70,7 @@
     <string name="already_have_account">Ужо зарэгістраваны?</string>
     <string name="already_logged_in">На гэтай прыладзе ўжо ёсць акаўнт УКантакце. Дзеля ўваходу ў іншы акаўнт неабходна выйсці з бягучага.</string>
     <string name="app_name">УКантакце</string>
-    <string name="app_remove_confirm">Вы сапраўды жадаеце адлучыць гэтую гульню ад свайго акаўнта?</string>
+    <string name="app_remove_confirm">Вы сапраўды жадаеце адлучыць гэтую гульню ад свайго акаўнту?</string>
     <string name="article_go_to_group">Перайсці да суполкі %s</string>
     <string name="article_go_to_profile">Перайсці на старонку %s</string>
     <string name="article_preview">Прадпрагляд старонкі:</string>
@@ -205,7 +205,7 @@
     <string name="closed_group">Прыватная суполка</string>	
     <string name="com_facebook_device_auth_instructions">Адчыніце &lt;b>facebook.com/device&lt;/b> і ўвядзіце код, адлюстраваны вышэй.</string>
     <string name="com_facebook_image_download_unknown_error">Нечаканая памылка падчас загрузкі выявы.</string>
-    <string name="com_facebook_internet_permission_error_message">Каб увайсці цераз WebView неабходны дазвол INTERNET</string>
+    <string name="com_facebook_internet_permission_error_message">Каб увайсці праз WebView неабходны дазвол INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Памылка AndroidManifest</string>
     <string name="com_facebook_like_button_liked">Падабаецца</string>
     <string name="com_facebook_like_button_not_liked">Падабаецца</string>
@@ -263,17 +263,17 @@
     <string name="common_signin_button_text_long">Увайсці праз акаўнт Google</string>
     <string name="community_app_location_request_text">Дазволіць праграме доступ да Вашага месцазнаходжання?</string>
     <string name="community_app_location_request_title">Месцазнаходжанне</string>	
-    <string name="community_comments_author_of_comment">Аўтар каментара</string>
+    <string name="community_comments_author_of_comment">Аўтар каментару</string>
     <string name="community_comments_from_frm">ад %s</string>
     <string name="community_comments_from_name">Ад імя</string>
     <string name="community_comments_from_your_name">свайго імя</string>
     <string name="community_comments_it_is_you">Гэта Вы</string>
     <string name="community_comments_reply_to_frm">адказ %s</string>
     <string name="community_comments_settings_block_title">Кіраванне суполкамі</string>
-    <string name="community_comments_settings_description">Кіраваныя суполкі можна пазначыць у якасці аўтара падчас адсылання каментара да любога запісу.</string>
+    <string name="community_comments_settings_description">Кіраваныя суполкі можна пазначыць у якасці аўтара падчас адсылання каментару да любога запісу.</string>
     <string name="community_comments_settings_for_admined_communities_subtitle">У кіраваных суполках можна адсылаць каментары ад імя суполкі.</string>
     <string name="community_comments_settings_for_admined_communities_title">У кіраваных суполках</string>
-    <string name="community_comments_settings_for_all_records_subtitle">Кіраваныя суполкі можна пазначыць у якасці аўтара каментара да любога запісу.</string>
+    <string name="community_comments_settings_for_all_records_subtitle">Кіраваныя суполкі можна пазначыць у якасці аўтара каментару да любога запісу.</string>
     <string name="community_comments_settings_for_all_records_title">Для ўсіх запісаў</string>
     <string name="community_comments_settings_for_community_posts">Для запісаў суполкі</string>
     <string name="community_comments_settings_option_everywhere">Паўсюль</string>
@@ -345,7 +345,7 @@
     <string name="delete_video">Выдаліць відэа</string>
     <string name="delete_video_album_confirm">Вы сапраўды жадаеце выдаліць гэты альбом?</string>
     <string name="delete_video_confirm">Вы сапраўды жадаеце выдаліць гэты відэазапіс? Адхіліць гэта дзеянне будзе немагчыма.</string>
-    <string name="delete_video_confirm_album">Вы сапраўды жадаеце выдаліць гэты відэазапіс з альбома?</string>
+    <string name="delete_video_confirm_album">Вы сапраўды жадаеце выдаліць гэты відэазапіс з альбому?</string>
     <string name="deleting_story">Выдаленне гісторыі</string>
     <string name="deny_messages">Забараніць паведамленні</string>
     <string name="disable_music_ad">Выключыць рэкламу</string>
@@ -394,8 +394,8 @@
     <string name="doc">Дакумент</string>
     <string name="doc_upload_ok">Дакумент загружаны</string>
     <string name="doc_upload_ok_long">Дакумент паспяхова загружаны</string>
-    <string name="doc_upload_ok_multiple">Дакументы загружаныя</string>
-    <string name="doc_upload_ok_multiple_long">Дакументы паспяхова загружаныя</string>
+    <string name="doc_upload_ok_multiple">Дакументы загружаны</string>
+    <string name="doc_upload_ok_multiple_long">Дакументы паспяхова загружаны</string>
     <string name="docs">Дакументы</string>	
     <string name="docs_add_title">Прымацаваць дакумент</string>
     <string name="document_delete_confirm">Вы сапраўды жадаеце выдаліць гэты дакумент? Адхіліць гэта дзеянне будзе немагчыма.</string>
@@ -421,7 +421,7 @@
     <string name="edit_name_declined">Нажаль, Ваша заяўка на змену імя была адхілена.&lt;br/>Мы просім карыстальнікаў выкарыстоўваць свае &lt;b>сапраўдныя імёны&lt;/b> ў &lt;b>поўнай&lt;/b> форме, напісаныя &lt;b>кірыліцай&lt;/b>.&lt;br/>&lt;br/>Вы можаце паўтарыць спробу, напісаўшы сапраўдныя імя і прозвішча.&lt;br/>&lt;br/>Перад адсыланнем пераканайцеся ў адсутнасці памылак.</string>
     <string name="edit_name_dialog_title">Змяненне імя</string>
     <string name="edit_name_header">Асноўная інфармацыя</string>	
-    <string name="edit_name_processing">&lt;b>Ваша заяўка прынята&lt;/b>.&lt;br/>УКантакце прынята выкарыстоўваць толькі &lt;b>сапраўдныя імёны&lt;/b> ў &lt;b>поўнай&lt;/b> форме, напісаныя &lt;b>кірыліцай&lt;/b>. Напрыклад: Святлана Алексіевіч, Кастусь Каліноўскі. Таму некаторыя заяўкі на змену імя правяраюцца мадэратарамі. Калі ласка, дачакайцеся пацверджання.&lt;br/>&lt;br/>Звярніце ўвагу, што для іншамоўных карыстальнікаў імёны &lt;b>транслітэруюцца&lt;/b> на лацінку &lt;b>аўтаматычна&lt;/b>. Таму заяўкі на напісанне рускіх імёнаў лацінкай адхіляюцца.</string>
+    <string name="edit_name_processing">&lt;b>Ваша заяўка прынята&lt;/b>.&lt;br/>УКантакце прынята выкарыстоўваць толькі &lt;b>сапраўдныя імёны&lt;/b> ў &lt;b>поўнай&lt;/b> форме, напісаныя &lt;b>кірыліцай&lt;/b>. Напрыклад: Алена Аляксейчык, Барыс Азаркевіч. Таму некаторыя заяўкі на змену імя правяраюцца мадэратарамі. Калі ласка, дачакайцеся пацверджання.&lt;br/>&lt;br/>Звярніце ўвагу, што для іншамоўных карыстальнікаў імёны &lt;b>транслітэруюцца&lt;/b> на лацінку &lt;b>аўтаматычна&lt;/b>. Таму заяўкі на напісанне рускіх імёнаў лацінкай адхіляюцца.</string>
     <string name="edit_name_req_processing">Новае імя (правяраецца адміністратарам):</string>	
     <string name="edit_name_was_accepted">Вы ўжо змянілі сваё імя. Вы не можаце змяніць яго да %s.</string>	
     <string name="edit_name_was_declined">Ваша папярэдняя заяўка на змяненне імя была адхілена. Новую заяўку можна адаслаць не раней &lt;b>%s&lt;/b>. Прабачце.&lt;br/>&lt;br/>Звярніце ўвагу, што УКантакце неабходна ўказваць сваё &lt;b>сапраўднае імя&lt;/b> ў &lt;b>поўнай&lt;/b> форме, &lt;b>кірыліцай&lt;/b>. Для іншамоўных карыстальнікаў усе імёны транслітэруюцца аўтаматычна на лацінку.</string>
@@ -462,7 +462,7 @@
     <string name="error_cphash_obsolete">Сесія састарэла. Неабходна пачаць працэдуру аднаўлення доступу наноў.</string>
     <string name="error_hide_from_stories">Адбылася памылка падчас хавання з гісторый</string>
     <string name="error_loading_poll">Памылка падчас загрузкі апытання: %s</string>
-    <string name="error_moving_audio_cache">Падчас перасоўвання кэша аўдыёзапісаў адбылася памылка: %s</string>
+    <string name="error_moving_audio_cache">Падчас перасоўвання кэшу аўдыёзапісаў адбылася памылка: %s</string>
     <string name="error_no_google_play">Google Play або Сэрвісы Google Play не ўсталяваны</string>	
     <string name="error_not_avail_for_user">Недаступна для гэтага карыстальніка.</string>
     <string name="error_pass_compromised">Гэты пароль скампраметаваны. Калі ласка, змяніце пароль.</string>
@@ -567,18 +567,18 @@
     <string name="games_invites">запрашаюць ўсталяваць</string>
     <string name="games_invites_title">Запрашэнні</string>
     <string name="games_leaderboard_title">Спіс лідэраў</string>
-    <string name="games_level_f">%1$s дасягнула %2$,d узроўня ў гульне %3$s</string>
+    <string name="games_level_f">%1$s дасягнула %2$,d узроўня ў гульні %3$s</string>
     <string name="games_level_f_date">%1$s дасягнула %2$,d узроўня</string>
-    <string name="games_level_m">%1$s дасягнуў %2$,d узроўня ў гульне %3$s</string>
+    <string name="games_level_m">%1$s дасягнуў %2$,d узроўня ў гульні %3$s</string>
     <string name="games_level_m_date">%1$s дасягнуў %2$,d узроўня</string>
     <string name="games_new">новае</string>
     <string name="games_new_caps">НОВАЕ</string>
     <string name="games_new_reqs">Новыя запыты</string>	
     <string name="games_no_friends">Будзьма першым сярод сяброў!</string>
     <string name="games_notify_invite">запрашае Вас у гульню \"%s\"</string>
-    <string name="games_notify_request_f">адаслала Вам апавяшчэнне ў гульне \"%s\"</string>
-    <string name="games_notify_request_m">адаслаў Вам апавяшчэнне ў гульне \"%s\"</string>
-    <string name="games_notify_requests">адаслалі Вам апавяшчэнне ў гульне \"%s\"</string>
+    <string name="games_notify_request_f">адаслала Вам апавяшчэнне ў гульні \"%s\"</string>
+    <string name="games_notify_request_m">адаслаў Вам апавяшчэнне ў гульні \"%s\"</string>
+    <string name="games_notify_requests">адаслалі Вам апавяшчэнне ў гульні \"%s\"</string>
     <string name="games_play">Гуляць</string>
     <string name="games_play_header">ГУЛЯЦЬ</string>
     <string name="games_recommended">Рэкамендаваныя</string>
@@ -586,9 +586,9 @@
     <string name="games_request_m">даслаў запыт</string>
     <string name="games_requests">даслалі запыты</string>
     <string name="games_requests_title">Запыты</string>
-    <string name="games_score_f">%1$s набрала %2$,d балаў у гульне %3$s</string>
+    <string name="games_score_f">%1$s набрала %2$,d балаў у гульні %3$s</string>
     <string name="games_score_f_date">%1$s набрала %2$,d балаў</string>
-    <string name="games_score_m">%1$s набраў %2$,d балаў у гульне %3$s</string>
+    <string name="games_score_m">%1$s набраў %2$,d балаў у гульні %3$s</string>
     <string name="games_score_m_date">%1$s набраў %2$,d балаў</string>
     <string name="games_settings">Налады апавяшчэнняў</string>
     <string name="games_show_all_invites">Паказаць усе запрашэнні</string>
@@ -638,7 +638,7 @@
     <string name="group_ban_comment_hint">Вы можаце пазначыць кароткі каментар</string>
     <string name="group_ban_duration">Тэрмін блакавання</string>
     <string name="group_ban_end">Заканчэнне блакавання</string>
-    <string name="group_ban_member">Член суполкі</string>
+    <string name="group_ban_member">Удзельнік суполкі</string>
     <string name="group_ban_not_member">Не ў суполцы</string>
     <string name="group_ban_reason">Прычына</string>	
     <string name="group_ban_show_comment">Паказваць гэты каментар карыстальніку</string>
@@ -857,7 +857,7 @@
     <string name="liked">Упадабалі</string>	
     <string name="likes">\"Мне падабаецца\"</string>
     <string name="link_copied">Спасылка скапіявана ў буфер абмену</string>
-    <string name="link_not_supported">Адкрыццё гэтай спасылкі не падтрымліваецца ў праграме</string>
+    <string name="link_not_supported">Адкрыццё гэтай спасылкі не падтрымліваецца праграмай</string>
     <string name="live">Трансляцыя</string>	
     <string name="load_more">Загрузіць больш</string>
     <string name="loading">Загрузка..</string>	
@@ -868,7 +868,7 @@
     <string name="log_out_warning">Падчас выхаду з уліковага запісу з прылады будуць выдалены ўсе залежныя ад яго дадзеныя. Працягваем?</string>
     <string name="login_with_facebook">Увайсці праз Facebook</string>	
     <string name="mail_or_login">Email або тэлефон</string>	
-    <string name="make_cover">Зрабіць вокладкай альбома</string>	
+    <string name="make_cover">Зрабіць вокладкай альбому</string>	
     <string name="maps_not_available">Карты недаступныя</string>	
     <string name="maps_not_available_descr">Каб карыстацца гэтай функцыяй неабходна праграма Карты Google.</string>	
     <string name="market">Тавары</string>
@@ -951,7 +951,7 @@
     <string name="more"> яшчэ</string>	
     <string name="move_to_album">Перанесці ў альбом</string>
     <string name="move_to_album_title">Перанесці фотаздымак</string>
-    <string name="moving_audio_cache">Перанос кэша аўдыёзапісаў...</string>
+    <string name="moving_audio_cache">Перанос кэшу аўдыёзапісаў...</string>
     <string name="msg_error">Памылка падчас адсылкі паведамлення</string>
     <string name="msg_forward">Пераслаць</string>
     <string name="msg_hint">Ваша паведамленне</string>
@@ -1164,7 +1164,7 @@
     <string name="no_videos_me">У Вас няма відэазапісаў</string>
     <string name="no_views">Няма праглядаў</string>
     <string name="none_selected">(Не абрана)</string>
-    <string name="not_avail_for_this_album">Дзеянне недаступна для гэтага альбома</string>
+    <string name="not_avail_for_this_album">Дзеянне недаступна для гэтага альбому</string>
     <string name="not_empty_desc">Тут Вы будзеце бачыць згадкі, новыя каментары, меткі «Мне падабаецца» і іншыя апавяшчэнні</string>
     <string name="not_friend_requests">Заяўкі сяброўства</string>
     <string name="not_messages_disabled">Выключаны</string>
@@ -1255,10 +1255,10 @@
     <string name="phone_number">Нумар тэлефону</string>
     <string name="photo">Фотаздымак</string>	
     <string name="photo_album_community_privacy">Фотаздымкі могуць дадаваць толькі рэдактары ды адміністратары</string>
-    <string name="photo_album_community_privacy_comment">Выключыць каментаванне альбома</string>
+    <string name="photo_album_community_privacy_comment">Выключыць каментаванне альбому</string>
     <string name="photo_descr">Апісанне фотаздымка</string>	
     <string name="photo_from_snapster">Фотаздымкі створаны ў праграме Snapster</string>
-    <string name="photo_go_to_album">Перайсці да альбома</string>
+    <string name="photo_go_to_album">Перайсці да альбому</string>
     <string name="photo_moved">Фотаздымак перанесены</string>
     <string name="photo_no_tags">На гэтым Фотаздымку няма пазнакаў</string>
     <string name="photo_save_ok">Фотаздымак захаваны на прыладзе</string>
@@ -1302,7 +1302,7 @@
     <string name="picker_graffiti_history_desc">Тут будуць з'яўляцца намаляваныя графіці</string>
     <string name="picker_graffiti_save_result">Узнікла памылка падчас захавання графіці</string>
     <string name="picker_loading">Загрузка...</string>
-    <string name="picker_loading_error">Узнікла памылка падчас загрузкі файла</string>
+    <string name="picker_loading_error">Узнікла памылка падчас загрузкі файлу</string>
     <string name="picker_loading_sticker_error">Узнікла памылка падчас загрузкі</string>	
     <string name="picker_miniature_selection">Абраць мініяцюру</string>
     <string name="picker_new_graffiti">Намаляваць графіці</string>
@@ -1787,7 +1787,7 @@
     <string name="signup_code_hint">Код пацверджання</string>	
     <string name="signup_code_incorrect">Вы набралі няправільны код.</string>
     <string name="signup_code_title">Пацверджанне</string>
-    <string name="signup_code_waiting">Паўтарыць адсыланне кода:</string>
+    <string name="signup_code_waiting">Паўтарыць адсыланне коду:</string>
     <string name="signup_confirm">Пацвердзіць</string>	
     <string name="signup_enter_number">"На пазначаны нумар тэлефону будзе
 адаслана паведамленне з кодам пацверджання"</string>
@@ -1937,12 +1937,12 @@
     <string name="updated_profile_photo_m">Абнавіў фота на старонцы</string>
     <string name="upload_enqueued">Файл дададзены ў чаргу загрузкі</string>
     <string name="upload_error">Памылка загрузкі</string>
-    <string name="upload_started">Загрузка файла на сэрвер пачалася..</string>
+    <string name="upload_started">Загрузка файлу на сэрвер пачалася..</string>
     <string name="uploading_audio">Загрузка аўдыёзапісаў</string>
     <string name="uploading_audio_err_notify">Памылка падчас загрузкі аўдыёзапісаў.</string>
     <string name="uploading_audio_multiple">Загрузка аўдыёзапісаў</string>
-    <string name="uploading_document">Загрузка дакумента</string>
-    <string name="uploading_document_err_notify">Памылка падчас загрузкі дакумента.</string>
+    <string name="uploading_document">Загрузка дакументу</string>
+    <string name="uploading_document_err_notify">Памылка падчас загрузкі дакументу.</string>
     <string name="uploading_document_multiple">Загрузка дакументаў</string>
     <string name="uploading_photo">Загрузка фотаздымку</string>
     <string name="uploading_photo_alert">Адбылася памылка падчас загрузкі фотаздымку на сэрвер. Паўтарыць спробу?</string>
